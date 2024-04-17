@@ -1,2 +1,2 @@
 # Database-for-Gun-Violence-Hotspots-Predictive-Model
-#TermPaper
+#The explanation and codebase for the project is documented in the PDF.
